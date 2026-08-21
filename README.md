@@ -18,9 +18,11 @@
 
 | **Category**  | **Description**                                                                                  |
 | ------------- | ------------------------------------------------------------------------------------------------ |
-| **Building**  | [Zwipe](https://zwipe.net) ([source](https://github.com/scadoshi/zwipe)), under daily development.                                             |
-| **Operating** | The self-hosted server it runs on: CI/CD, structured tracing, nightly backups, production metrics. |
-| **Learning**  | Whatever the current project demands. That's the whole method.                                   |
+| **Building**  | [Zwipe](https://zwipe.net) ([source](https://github.com/scadoshi/zwipe)), under daily development and shipping weekly releases. |
+| **Iterating** | [rustmas](https://github.com/scadoshi/rustmas) and [sharpmas](https://github.com/scadoshi/sharpmas) in lockstep: the same Advent of Code tooling maintained in Rust and C#, every refactor ported both ways. |
+| **Extending** | [diprotodon](https://github.com/scadoshi/diprotodon): pub/sub landed, MULTI/EXEC transactions next on the roadmap. |
+| **Learning**  | C#, by writing all sorts of projects in it and comparing notes on Rust vs C# in online forums. |
+| **Operating** | The self-hosted server Zwipe runs on: CI/CD, structured tracing, nightly backups, production metrics. |
 
 <div align="right">
 
