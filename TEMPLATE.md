@@ -1,3 +1,8 @@
+<!-- Source for README.md. Placeholders are the ones orhun/profile-readme-stats
+     understands, so a cron can render this with that action or any script that
+     fills the same names. Numbers in README.md were measured by hand on
+     2026-09-23 and do not update on their own. -->
+
 ### Hey!
 
 🦀 I'm **Scotty**. A Rust engineer in Washington state.
