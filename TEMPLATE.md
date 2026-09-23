@@ -10,12 +10,11 @@
 
 #### ⚡ Stats
 
-I joined GitHub **2** years ago and have since pushed **5,178** commits across **56** personal projects, with contributions to **35** public repositories.
+I joined GitHub **{{ ACCOUNT_AGE }}** years ago and have since pushed **{{ COMMITS }}** commits across **{{ REPOSITORIES }}** personal projects, with contributions to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=dea584&message=Rust%EF%B8%B158.9%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=e34c26&message=HTML%EF%B8%B131.5%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=663399&message=CSS%EF%B8%B14.0%25)
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=178600&message=C%23%EF%B8%B11.9%25)
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
 
 #### 🌀 Projects
 
