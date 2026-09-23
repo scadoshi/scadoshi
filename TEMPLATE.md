@@ -9,7 +9,7 @@
 
 📱 I built [**Zwipe**](https://zwipe.net) ([source](https://github.com/scadoshi/zwipe)), a swipe-first MTG deck builder, live on the iOS and Android app stores with ~1,000 users. Roughly 100,000 lines of Rust across 5 crates, 600+ tests, self-hosted, built and operated by me.
 
-🔨 I went from near-zero programming to production Rust in about a year, and I build things from scratch to understand how they actually work.
+🔨 I build things from scratch to understand how they actually work.
 
 [**scottyfermo.com**](https://scottyfermo.com) · [LinkedIn](https://www.linkedin.com/in/scotty-fermo-41a35b141)
 
