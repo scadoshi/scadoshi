@@ -4,7 +4,7 @@
 
 ⚙️ I build systems from the bottom up: [**chickadee**](https://github.com/scadoshi/chickadee), an LSM-tree storage engine, and [**steller**](https://github.com/scadoshi/steller), a Redis-compatible server that talks to real `redis-cli`. Both hand-written, no frameworks.
 
-📱 I also built [**Zwipe**](https://zwipe.net) ([source](https://github.com/scadoshi/zwipe)), a swipe-first MTG deck builder, live on the iOS and Android app stores with ~1,000 users. Roughly 100,000 lines of Rust across 5 crates, 600+ tests, self-hosted, built and operated by me.
+📱 I also built [**Zwipe**](https://zwipe.net) ([source](https://github.com/scadoshi/zwipe)), a swipe-first MTG deck builder, live on the iOS and Android app stores with ~1,000 users. Over 100,000 lines of Rust across 6 workspace crates, 700+ tests, self-hosted, built and operated by me.
 
 🔨 I build things from scratch to understand how they actually work.
 
