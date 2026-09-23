@@ -17,6 +17,8 @@ I joined GitHub **2** years ago and have since pushed **5,178** commits across *
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=663399&message=CSS%EF%B8%B14.0%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=178600&message=C%23%EF%B8%B11.9%25)
 
+<sub>Counted by hand on 23 Sep 2026.</sub>
+
 #### 🌀 Projects
 
 | **Databases & Systems**                                                                                                                                                                                                                                                                                                                                     | **Apps & Tools**                                                                                                                                                                                                                                                                                                                                                                     |
