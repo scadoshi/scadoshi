@@ -12,7 +12,7 @@
 
 #### ⚡ Stats
 
-I joined GitHub **2** years ago and have since pushed **5,945** commits across **54** personal projects, **34** of them public, with **96** stars between them.
+I joined GitHub **2** years ago and have since pushed **5,945** commits across **54** personal projects, **34** of them public.
 
 ![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=dea584&message=Rust%EF%B8%B160.5%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=e34c26&message=HTML%EF%B8%B130.0%25)
