@@ -12,14 +12,14 @@
 
 #### ⚡ Stats
 
-I joined GitHub **2** years ago and have since pushed **5,710** commits across **54** personal projects, **35** of them public.
+I joined GitHub **2** years ago and have since pushed **5,945** commits across **54** personal projects, **34** of them public, with **96** stars between them.
 
-![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=dea584&message=Rust%EF%B8%B160.2%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=e34c26&message=HTML%EF%B8%B130.4%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=663399&message=CSS%EF%B8%B14.0%25)
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=178600&message=C%23%EF%B8%B11.8%25)
+![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=dea584&message=Rust%EF%B8%B160.5%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=e34c26&message=HTML%EF%B8%B130.0%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=663399&message=CSS%EF%B8%B14.1%25)
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=178600&message=C%23%EF%B8%B11.7%25)
 
-<sub>Counted from the GitHub API on 30 Sep 2026.</sub>
+<sub>Counted from the GitHub API on 2 Oct 2026. Forks excluded.</sub>
 
 #### 🌀 Projects
 
