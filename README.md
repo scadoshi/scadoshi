@@ -2,9 +2,9 @@
 
 🦀 I'm **Scotty**. A Rust engineer in Washington state.
 
-⚙️ I build systems from the bottom up: [**chickadee**](https://github.com/scadoshi/chickadee), an LSM-tree storage engine, and [**steller**](https://github.com/scadoshi/steller), a Redis-compatible server that talks to real `redis-cli`. Both hand-written, no protocol crates. steller is in production behind [**heron**](https://github.com/scadoshi/heron), my own server, which serves every number on [scottyfermo.com](https://scottyfermo.com): commits and a year of contributions from GitHub, lines and tests it counts itself from each repo after a push.
+⚙️ I build systems from the bottom up, as learning builds taken past the tutorial: [**chickadee**](https://github.com/scadoshi/chickadee), an LSM-tree key-value store, and [**steller**](https://github.com/scadoshi/steller), a Redis-compatible server that talks to real `redis-cli`. Both hand-written, no protocol crates. steller is in production behind [**heron**](https://github.com/scadoshi/heron), my own server, which serves every number on [scottyfermo.com](https://scottyfermo.com): commits and a year of contributions from GitHub, lines and tests it counts itself from each repo after a push.
 
-📱 I also built [**Zwipe**](https://zwipe.net) ([source](https://github.com/scadoshi/zwipe)), a swipe-first MTG deck builder, live on the iOS and Android app stores with ~1,000 users. Over 143,000 lines of Rust across 6 workspace crates, 770+ tests, self-hosted, built and operated by me.
+📱 I also built [**Zwipe**](https://zwipe.net) ([source](https://github.com/scadoshi/zwipe)), a swipe-first MTG deck builder, live on the iOS and Android app stores, self-hosted, built and operated by me.
 
 🔨 I build things from scratch to understand how they actually work.
 
