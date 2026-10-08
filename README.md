@@ -36,7 +36,7 @@ I joined GitHub **2** years ago and have since pushed **5,945** commits across *
 | **Iterating** | [rustmas](https://github.com/scadoshi/rustmas) and [sharpmas](https://github.com/scadoshi/sharpmas) in lockstep: the same Advent of Code tooling maintained in Rust and C#, every refactor ported both ways. |
 | **Extending** | [steller](https://github.com/scadoshi/steller): pub/sub and SET options landed, now serving [heron](https://github.com/scadoshi/heron) in production; MULTI/EXEC transactions next on the roadmap. |
 | **Learning**  | C#, by writing all sorts of projects in it and comparing notes on Rust vs C# in online forums. |
-| **Operating** | Two Hetzner boxes: the one Zwipe runs on (CI/CD, structured tracing, nightly backups, production metrics) and the one heron and steller share, deployed by a self-hosted runner on every push, where heron sweeps thirteen repos for a fresh count whenever one is pushed to. |
+| **Operating** | Two Hetzner boxes: the one Zwipe runs on (CI/CD, structured tracing, nightly backups, production metrics) and the one heron and steller share, deployed by a self-hosted runner on every code push, where heron sweeps thirteen repos for a fresh count whenever one is pushed to. |
 
 <div align="right">
 
