@@ -12,11 +12,11 @@
 
 #### ⚡ Stats
 
-I joined GitHub **2** years ago and have since pushed **7,938** commits across **60** personal projects, **35** of them public.
+I joined GitHub **2** years ago and have since pushed **8,300** commits across **64** personal projects, **37** of them public.
 
-![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=dea584&message=Rust%EF%B8%B158.1%25) ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=e34c26&message=HTML%EF%B8%B127.6%25) ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=663399&message=CSS%EF%B8%B14.7%25) ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=f1e05a&message=JavaScript%EF%B8%B13.0%25) ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=178600&message=C%23%EF%B8%B11.5%25)
+![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=dea584&message=Rust%EF%B8%B159.6%25) ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=e34c26&message=HTML%EF%B8%B126.6%25) ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=663399&message=CSS%EF%B8%B14.6%25) ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=f1e05a&message=JavaScript%EF%B8%B12.9%25) ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=178600&message=C%23%EF%B8%B11.5%25)
 
-<sub>Counted from the GitHub API on 23 Oct 2026. Forks excluded.</sub>
+<sub>Counted from the GitHub API on 26 Oct 2026. Forks excluded.</sub>
 
 #### 🌀 Projects
 
