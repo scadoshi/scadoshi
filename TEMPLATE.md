@@ -13,7 +13,7 @@
 
 🔨 I build things from scratch to understand how they actually work.
 
-🤖 Once I understand something, I let AI speed up the work, and spend the time it saves learning the next thing on purpose.
+🤖 Once I understand something, AI speeds up the work, and the time it saves goes into whatever I want to learn next.
 
 [**scottyfermo.com**](https://scottyfermo.com) · [LinkedIn](https://www.linkedin.com/in/scotty-fermo-41a35b141)
 
